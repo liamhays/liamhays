@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**liamhays/liamhays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently:
+- learning Rust for various projects and for fun
+- suffering through STM32 and friends
+- loving the Flipper Zero
+- waiting for RISC-V to get big
+- dreaming of a Ryzen Framework
+- listening to too much Yes
 
-Here are some ideas to get you started:
+and occasionally doing things off of the computer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- Discord: @liamur_ (rest in peace user discriminators)
+- Matrix: @liamur:matrix.org
+- Website (project info and blog): [liamhays.github.io](https://liamhays.github.io)
+
