@@ -12,5 +12,5 @@ and occasionally doing things off of the computer.
 ### Contacts
 - Discord: @liamur_
 - Matrix: @liamur:matrix.org (currently not used)
-- Website (project info and blog): [liamhays.github.io](https://liamhays.github.io)
+- Website: (https://cryothene.neocities.org)[https://cryothene.neocities.org]
 
