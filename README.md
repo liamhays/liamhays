@@ -1,11 +1,10 @@
 ## Hello!
 
 I'm currently:
-- making things in Rust because I love it
+- waiting for Sharp to manufacture displays
 - suffering with STM32 (but getting paid)
 - watching RISC-V get big
 - using my beloved Framework
-- listening to synthwave
 
 and occasionally doing things off of the computer.
 
