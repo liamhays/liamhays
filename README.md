@@ -1,12 +1,8 @@
 ## Hello!
 
-I'm currently:
-- waiting for Sharp to manufacture displays
-- suffering with STM32 (but getting paid)
-- watching RISC-V get big
-- using my beloved Framework
+I develop hardware and software stuff pretty regularly. A few of the repos here have interesting stories that are documented on my website, linked below. You can also learn some more about me over there.
 
-and occasionally doing things off of the computer.
+Sometimes I do things less computery, but you probably won't see those on GitHub.
 
 ### Contacts
 - Discord: @liamur_
